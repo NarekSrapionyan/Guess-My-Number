@@ -18,6 +18,7 @@ Click Check! button to submit your guess.
 You will get feedback:
 
 "📈 High!" if your guess is higher than the secret number.
+
 "📉 Low!" if your guess is lower than the secret number.
 "🎉 Correct Number!" if you guess it right.
 
