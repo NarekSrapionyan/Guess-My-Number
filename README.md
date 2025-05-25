@@ -4,6 +4,7 @@ This is a simple and fun number guessing game built with JavaScript, HTML, and C
 The goal is to guess a secret number between 1 and 20. You start with a score of 20 and lose points every wrong guess. Try to guess correctly with the highest possible score!
 
 📌 Features
+
 🎲 Random secret number between 1 and 20 generated each game.
 
 🕹️ Input your guess and get feedback if it’s too high, too low, or correct.
